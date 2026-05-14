@@ -1,4 +1,4 @@
-# <!DOCTYPE html>
+# <生日快乐>
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
@@ -69,7 +69,7 @@
         🌟 健康 · 快乐 · 好运 🌟
     </div>
     <div class="footer">
-        —— 来自 xx 的真心祝愿
+        —— 来自 LQ 的真心祝愿
     </div>
 </div>
 </body>
